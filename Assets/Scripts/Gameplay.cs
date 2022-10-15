@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Gameplay : MonoBehaviour
 {
     TextAsset textFile;
-    string[] names = { "Tom", "Fahsai" };
+    string[] names = { "Sho", "Sakura" };
     string[] allScripts;
     Text textName, textRel;
     string scriptName, scripts;

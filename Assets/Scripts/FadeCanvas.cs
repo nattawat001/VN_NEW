@@ -43,6 +43,7 @@ public class FadeCanvas : MonoBehaviour
                     fadeOut = false;
                     int sceneIndex = SceneManager.GetActiveScene().buildIndex;
                     SceneManager.LoadScene(sceneIndex + 1);
+
                 }
             }
         }
